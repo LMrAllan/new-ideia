@@ -6,6 +6,7 @@ function Home(){
             <h2>Finalmente!!!</h2>
             <Contador></Contador>
             <h3>É isso!!!</h3>
+            <div>O peixe é gay!</div>
         </div>
     )
 }
